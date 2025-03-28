@@ -103,12 +103,12 @@
     <script src="https://www.gstatic.com/firebasejs/9.6.7/firebase-auth-compat.js"></script>
     <script>
         const firebaseConfig = {
-            apiKey: "AIzaSyCzY05cZ9e-IKl16IEjmqho9PYc-zkcvs4",
-            authDomain: "research-paper-finder-db.firebaseapp.com",
-            projectId: "research-paper-finder-db",
-            storageBucket: "research-paper-finder-db.appspot.com",
-            messagingSenderId: "173791261393",
-            appId: "1:173791261393:web:34416e6f26dd65dc170bf0"
+            apiKey: "",
+            authDomain: "",
+            projectId: "",
+            storageBucket: "",
+            messagingSenderId: "",
+            appId: ""
         };
 
         firebase.initializeApp(firebaseConfig);
